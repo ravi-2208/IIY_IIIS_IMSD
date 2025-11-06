@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Working with hyperlinks in HTML </title>
+</head>
+<body>
+<h1> Working with hyperlinks in HTML </h1>
+<h2> Text Hyperlink </h2>
+<h3> Click the link below to visit the AEC official website: </h3>
+<a href="https://adityauniversity.in//"> Visit AEC website</a>
+<h2> Image hyperlink </h2>
+<h3> Click the image below to open AEC Gallery in a new tab: </h3>
+<a href="https://www.aec.edu.in/?p=Gallery">
+<img src="aditya university-logo.jpg" width="300" height="300" >
+AEC logo
+</a>
+</body>
+</html>

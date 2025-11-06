@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+WELCOME TO ADITYA UNIVERSITY
+</title>
+</head>
+<body style="background-color: lightblue;">
+<h2>
+<b> LIST OF AUS INSTITUTIONS </b>
+</h2>
+<ol>
+<li> Aditya University </li>
+<li> Aditya BBA  </li>
+<li> Aditya Polytechnic </li>
+<li> Aditya Pharmacy </li>
+<li> Aditya Forensic </li>
+</ol>
+<h2> 
+<b> LIST OF AUS INSTITUTIONS GROUNDS </b>
+</h2>
+<ul>
+<li> Cricket </li>
+<li> Volley Ball </li>
+<li> Basket Ball </li>
+<li> Foot Ball </li>
+</ul>
+<h2>
+<b> COURSES AVAILABLE </b>
+</h2>
+<ul>
+<li> UG programs
+<ul>
+<li> CSE 
+<ol>
+<li> AIML </li>
+<li> CSDS </li>
+<li> IT </li>
+<li> CORE CSE </li>
+</ol>
+</li>
+<li> ECE </li>
+<li> EEE </li>
+<li> MECH </li>
+<li> CIVIL </li>
+</ul>
+</li>
+</ul>
+<h2>
+<b> DEFINITION LIST: </b>
+</h2>
+<h3>
+A definition list is used to display terms and their meanings — like in a glossary or dictionary.
+</h3>
+<dl>
+<dt>HTML</dt>
+<dd>HTML stands for HyperText Markup Language. It’s the skeleton of the webpage — structure and content.</dd>
+<dt>CSS</dt>
+<dd>CSS stands for Cascading Style Sheets. It’s the styling layer — how things look and feel.</dd>
+<dt>JS</dt>
+<dd>JS stands for JavaScript. It’s the brain of the website — used for logic, interactivity, and actions.</dd>
+</dl>
+</body>
+</html>
